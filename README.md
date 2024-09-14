@@ -1,4 +1,11 @@
-## Hi there 👋
+## bem vindo ao meu perfil
+- meu nome ta no meu nome de usuario
+- minha idade não é necessaria
+- aprendendo linguagem de jogo
+
+
+![woon3](https://github.com/user-attachments/assets/f7d2effa-0abe-4f5d-a7f7-f5b867f1e846)
+
 
 <!--
 **herosevangelista/herosevangelista** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
